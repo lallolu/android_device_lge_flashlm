@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/dot_flashlm.mk
+    $(LOCAL_DIR)/lineage_flashlm.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_flashlm-userdebug \
-    dot_flashlm-eng
+    lineage_flashlm-userdebug \
+    lineage_flashlm-eng
