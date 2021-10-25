@@ -3,4 +3,5 @@
 #
 
 # LGE Misc
-ro.vendor.lge.swversion=V45020a
+# TODO lallolu Correct this
+ro.vendor.lge.swversion=V45030a

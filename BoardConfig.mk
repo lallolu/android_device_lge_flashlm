@@ -24,10 +24,9 @@ BOARD_KERNEL_CMDLINE += androidboot.hardware=flashlm
 
 # Recovery
 TARGET_RECOVERY_WIPE := $(DEVICE_PATH)/recovery/recovery.wipe
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.flashlm
 
 # Security Patch Level
-VENDOR_SECURITY_PATCH := 2020-01-01
+VENDOR_SECURITY_PATCH := 2021-08-01
 
 # inherit from the proprietary version
 -include vendor/lge/flashlm/BoardConfigVendor.mk
