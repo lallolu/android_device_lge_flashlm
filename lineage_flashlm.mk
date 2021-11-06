@@ -40,10 +40,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-lge
 TARGET_VENDOR_PRODUCT_NAME := flashlm_lao_com
 TARGET_VENDOR_DEVICE_NAME := flashlm
 
-# TODO: Update block below with v450 information
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="flashlm_lao_com" \
-    PRIVATE_BUILD_DESC="flashlm_lao_com-user 11 RKQ1.210420.001 2122112261c44 release-keys"
+    PRIVATE_BUILD_DESC="flashlm_lao_com-user 10 QKQ1.191021.002 2001510376540 release-keys"
 
-BUILD_FINGERPRINT := "lge/flashlm_lao_com/flashlm:11/RKQ1.210420.001/2122112261c44:user/release-keys"
+BUILD_FINGERPRINT := "lge/flashlm_lao_com/flashlm:10/QKQ1.191021.002/2001510376540:user/release-keys"
 
